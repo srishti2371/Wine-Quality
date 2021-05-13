@@ -53,12 +53,19 @@ We have followed a step by step procedure for the analysis of our dataset. We ha
 ## Results 
 
 Accuracy from Decision Tree Classifier is 73.74 %
+
 Accuracy from RandomForestClassifier is 80.43 %
+
 Accuracy from Adaboost classifier is 76.76 %
+
 Accuracy from Gradient Boosting Algorithm is 80.64 %
+
 Accuracy from XGBoost Classifier is 80.43 %
+
 Accuracy from Naive Bayes is 70.36 %
+
 Accuracy from K-Nearest Neighbours is 78.06 %
+
 Accuracy from Support Vector Machine algorithm is 70.36 %
 
 ## Conclusion
